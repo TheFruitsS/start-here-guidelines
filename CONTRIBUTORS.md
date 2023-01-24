@@ -18,6 +18,8 @@
 
 - [@fabioauroradev](https://github.com/FabioAurora)
 
+-[@TheFruitsS](https://github.com/TheFruitsS)
+
 - [@zohair001](https://github.com/zohair001)
 
 - [@ekramasif](https://github.com/ekramasif)
